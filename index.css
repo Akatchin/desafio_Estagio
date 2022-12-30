@@ -1,0 +1,11 @@
+.mensagem {
+    display: none;
+}
+
+.exibir {
+    display: block;
+}
+
+.invisivel {
+    display: none;
+}
